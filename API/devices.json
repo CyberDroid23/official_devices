@@ -1,0 +1,13 @@
+{
+    "devices": [
+        {
+            "codename": "lunaa",
+            "codename_alt": "lunaa",
+            "vendor": "Realme",
+            "model": "Realme GT Master Edition",
+            "maintainer_name": "CyberDroid23",
+            "frame": null,
+            "active": true
+        }
+    ]
+}

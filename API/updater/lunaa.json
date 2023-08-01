@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "PixelOS_martini-13.0-20230731-2109.zip",
+    "datetime": 1690581244,
+    "size": 2338272465,
+    "url": "https://index.sauraj.eu.org/api/raw/?path=/PixelOS_lunaa-13.0-20230731-2109.zip",
+    "github_releases_url": "https://index.sauraj.eu.org/api/raw/?path=/PixelOS_lunaa-13.0-20230731-2109.zip",
+    "filehash": "93479936e3a98e592462a44615dc749d",
+    "id": "93479936e3a98e592462a44615dc749d",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "CyberDroid23",
+            "name": "CyberDroid23"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": ""
+}

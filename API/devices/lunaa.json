@@ -1,0 +1,24 @@
+{
+    "maintainer": [
+        {
+            "display_name": "0xQuantum",
+            "telegram": "https://t.me/cyberdroid23",
+            "github": "https://gitlab.com/CyberDroid23"
+        }
+    ],
+    "updater": true,
+    "beta": false,
+    "version": "thirteen",
+    "available_versions": [
+        "thirteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Realme GT Master Edition",
+    "device_display_codename": "lunaa",
+    "public_download": "https://github.com/cyberdroid1111/device_realme_lunaa/releases/",
+    "last_updated": "31 July 2023",
+    "private_download_tag": "lunaa-XXXXXXXXXXX",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
